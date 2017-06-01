@@ -1,37 +1,45 @@
-{"version_code":451184,"content":"
-<p>สอฯํห 9.10</p>
+{"version_code":451756,"content":"
+<p>ุชุญุฏูุซ 5.80</p>
 
-<li>วแสอฯํห แไำฮษ วแใวั฿ส 2.16.310</li>
-<li>ลึวÝษ Ýํำวส วแๆวสำ วศ วแฬฯํฯษ</li>
-<li>ลใ฿วไํษ สฺฯํแ วแีๆั Þศแ วัำวแๅว(วแัำใ - วแ฿สวศษ ลึวÝษ วแใแีÞวส ฺแ์ วแีๆั)</li>
-<li>(อีัํว) ลใ฿วไํษ วแวสีวแ ใ฿วแใษ ๅวสÝํษ ใไ ฯวฮแ วแๆวสำ วศ</li>
-<li>ลึวÝษ วแฮํวั 2.5.4 แสอฯํฯ ใฯษ สไศํๅ ใไ วีศอ ใสีแ ๆใไ าวั ศัๆÝวํแ฿</li>
-<li>ลึวÝษ วแฮํวั ัÞใ 5.3 แสอฯํฯ อฬใ วแใÞฺุ วแีๆสํ วแใัำแ แ 100 ใํÛว ศฯแว ใไ 16 ใํÛว</li>
-<li>ลึวÝษ วแฮํวั 2.2.2c แอำวศ วแๆÞส วแใไÞึํ แวฮั ูๅๆั </li>
-<li>ลึวÝษ วแฮํวั ัÞใ 2.4.14 แสÛํํั แๆไ วำใ วแใฬใๆฺษ ๆฯฺใ สÛํํั หํใ ิวิษ วฺวฯษ วแสๆฬํๅ ใไ วแÞำใ 2.4</li>
-<li>ลึวÝษ วแฮํวั ัÞใ 3.14 แสÛํํั แๆไ วํÞๆไษ วแÝํำวส Ýํ ิวิษ วแลิฺวัวส วแใไศหÞษ</li>
-<li>ลีแวอ ฺฯใ Ýสอ ำฬแ whatsapp.log</li>
-<li>ลึวÝษ วแสัฬใษ แแÛษ วแÝวัำํํษ</li>
-<li>ลีแวอ วแฺๆฯษ แแฮแÝํษ วแวÝสัวึํษ ฺไฯ วำสฮฯวใ ฮแÝํษ ใฮีีษ แ฿แ ใอวฯหษ (วแฮํวั 1.2.0)</li>
-<li>ลีแวอ ๆํฯฬส ลฮÝวม วแูๅๆั Ýํ ศฺึ วแวฬๅาษ</li>
-<li>สฺฯํแ วแสัฬใษ Ýํ วแแÛษ วแฺัศํษ</li>
-<li>ลีแวอวส วฮั์</li>
+<li>ุงูุชุญุฏูุซ ููุณุฎุฉ ุงูู…ุงุฑูุช 2.17.146</li>
+<li>ุฅู…ูุงููุฉ ุฅุฑุณุงู ุงูุจุฑุงู…ุฌ ูุงูุงูุนุงุจ ููุงูุฉ ุงููุงุน ุงูู…ููุงุช</li>
+<li>ูู…ููู ุชุซุจูุช ุงู ุฏุฑุฏุดุฉ ูู ุงุนูู ูุงุฆู…ุฉ ุงูุฏุฑุฏุดุงุช ููู ุชุตู ุงูููุง ุจุณูููุฉ</li>
+<li>(ุญุตุฑูุง) ุฅู…ูุงููุฉ ุชุซุจูุช ุงูุซุฑ ู…ู 3 ู…ุญุงุฏุซุงุช</li>
+<li>ุฅู…ูุงููุฉ ูุถุน ููุฏูู ููุญุงูุฉ ุบูุฑ ู…ุญุฏูุฏ ุงูู…ุฏุฉ - ููุท ูุธูุฑ ุงูููุฏูู ุบูุฑ ู…ุญุฏูุฏ ูู…ุณุชุฎุฏู…ูู </li>ูุณุฎุชู ูุณูุธูุฑ ููุท 30 ุซุงููุฉ ูู…ุณุชุฎุฏู…ูู ุงููุงุชุณ ุงูุฑุณู…ู ุงู ุงููุณุฎ ุงูุงุฎุฑู
+<li>ุงุถุงูุฉ ุฎูุงุฑ ูุชุบููุฑ ุฎุท ู…ุญุงุฏุซุงุช ุงููุงุชุณ ุงุจ (39 ุฎุท) - ูุฌุจ ุงูุถุบุท ุนูู ุฒุฑ ุฎูุงุฑุงุช ุซู… <li>ุงุนุงุฏุฉ ุชุดุบูู ูุงุชุณ ุงุจ ุจุนุฏ ุชุทุจูู ุงูุฎุท ุงูุฌุฏูุฏ
+<li>ุฒูุงุฏุฉ ู…ุฏุฉ ูุญุฌู… ุงุฑุณุงู ุงูููุฏูู ู…ู 30 ุงูู 700 ู…ูุบุง ุจุงูุช</li>
+<li>(ุญุตุฑูุง) ุชุนุฏูู ุงูุฎูุงุฑ ุฑูู… 6.8 ูู…ููู ูุถุน ูุงุฆู…ุฉ ุงูุงุณู…ุงุก ุจุฏูุง ู…ู ูุงุฆู…ุฉ ุงูุญุงูุฉ ุงู ุจุฏูุง </li>ู…ู ูุงุฆู…ุฉ ุณุฌู ุงูู…ูุงูู…ุงุช
+<li>ุฅุถุงูุฉ ุฎูุงุฑ ูุชุบููุฑ ูู…ุท ุงูู…ุญุงุฏุซุงุช ุงูู…ุฎููุฉ (ุงูุชุญ ุงูู…ุญุงุฏุซุงุช ุงูู…ุฎููุฉ ุซู… ุฒุฑ </li>ุงูุงุนุฏุงุฏุงุช)
+<li>ุฅุถุงูุฉ ุงูุฎูุงุฑ ุฑูู… 1.1.14 ูุฅุฎูุงุก ุฒุฑ ุงูุงุฑูุงู ู…ู ุงูุดุฑูุท ุงูุนููู ูู ุงูู…ุญุงุฏุซุฉ</li>
+<li>ุฅุถุงูุฉ ุงูุฎูุงุฑ ุฑูู… 1.2.44 ูุฅุฎูุงุก ุฒุฑ ุงูุงุฑูุงู ู…ู ุตูุฏูู ุงููุชุงุจุฉ ูู ุงูู…ุญุงุฏุซุฉ</li>
+<li>ุฅุตูุงุญ ู…ูุฒุฉ ุฅุธูุงุฑ ุงุดุนุงุฑ ุนูุฏู…ุง ูุตุจุญ ุงุญุฏ ู…ุง ู…ุชุตู (ู…ู ุฒุงุฑ ุจุฑููุงููู)</li>
+<li>ุฅุตูุงุญ ุงูุฎูุงุฑ ุฑูู… 6.11 ูุชุนุทูู ุธููุฑ ุงูุฅุดุนุงุฑุงุช ุงูู…ูุจุซูุฉ ูู ุงุตุฏุงุฑ ููุบุง (7.0)</li>
+<li>ุฅุตูุงุญ ุนุฏู… ุธููุฑ ุงููู…ุท ุนูุฏ ุงุฎูุงุก ู…ุญุงุฏุซุฉ ูู ุจุนุถ ุงูุงุฌูุฒุฉ</li>
+<li>ุฅุตูุงุญ ุนุฏู… ุธููุฑ ุงูููู ุนูุฏ ูุชุญ ุงููุงุชุณุงุจ ู…ู ุงูููุฏุฌุช</li>
+<li>ุฅุตูุงุญุงุช ุงุฎุฑู</li>
 
 
-<li> New Base Updated to 2.16.310</li>
-<li> (Exclusive) Elapsed Time instead of Last Seen on Main Screen (Mod 2.2.2c) (use 24hr time format) </li>
-<li> (Exclusive) Option to make normal call from inapp instead of WhatsApp call</li>
-<li> Added New Emojis (send Big Emojis) </li>
-<li> Added Doodle (Now add edit pics with emojis & text)</li>
-<li> Added Option to set duration for Online Toast (Mod 2.5.4)</li>
-<li> Added option to Send Audio Clip upto 100mb instead of 16mb (Mod 5.3)</li>
-<li> Added Option to change color of Group name while Forwarding a msg (Mod 2.4.14)</li>
-<li> Added Option to change Background of Emoji in Pop-up Notification (Mod 3.14)</li>
-<li> Added Farsi Language Translation</li>
-<li> Fixed WhatsApp.Log</li>
-<li> Fixed Return to Default wallpaper when use mod 1.2.0</li>
-<li> Fixed GB Widget in some devices</li>
-<li> Other Fixes</li>
+</li>New Base Updated to 2.17.146 (Playstore)</li>
+</li>Added Ability to Send All Files (Eg. Apk, etc)</li>
+</li>Unlocked Pin Chats</li>
+</li>(Exclusive) Ability to Pin More Than 3 Chats (Default is 3)</li>
+</li>Unlimited video for status - The video shows unlimited only for my copys users. But users of other versions will only have 30 seconds</li>
+</li>Added option to change conversation font</li>
+</li>Upload videos up 700 MB</li>
+</li>(Exclusive) Show Contacts Tab in Different Style (Mod 6.8)</li>
+</li>(Exclusively) Added Attach Icon in Header (in New UI, it was removed by default)</li>
+</li>Added Option to Change Pattern to Hide Chats (Go to Hide Chat List & Click on Gear icon on Top right)</li>
+</li>Added Option to Hide Attach Icon from Header (Mod 1.1.14)</li>
+</li>Added Option to Hide Attach Icon from Stock Entry Style (Mod 1.2.44)</li>
+</li>Added Color to the Document Text (will be same as Hyperlink)</li>
+</li>Fixed Show notification when someone becomes connected (who visited your profile)</li>
+</li>Fixed Show Contact Status (Mod 2.2.2)</li>
+</li>Fixed Heads-up Notifications for Nougat (Mod 6.11)</li>
+</li>Fixed Pattern Not Showing for Some Phones When Hide Chats</li>
+</li>Fixed Voice Note Time Color</li>
+</li>Fixed Button Delete Background</li>
+</li>Fixed WhatsApp Lock</li>
+</li>Other Fixes</li>
 
-","url":"www.azmods.co"
+","url":"http://mimsandroid.blogspot.com"
 }
