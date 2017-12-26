@@ -1,45 +1,38 @@
-{"version_code":451756,"content":"
+{"version_code":452100,"content":"
 <p>تحديث 5.80</p>
 
-<li>التحديث لنسخة الماركت 2.17.146</li>
-<li>إمكانية إرسال البرامج والالعاب وكافة انواع الملفات</li>
-<li>يمكنك تثبيت اي دردشة في اعلى قائمة الدردشات لكي تصل اليها بسهولة</li>
-<li>(حصريا) إمكانية تثبيت اكثر من 3 محادثات</li>
-<li>إمكانية وضع فيديو للحالة غير محدود المدة - فقط يظهر الفيديو غير محدود لمستخدمين </li>نسختي وسيظهر فقط 30 ثانية لمستخدمين الواتس الرسمي او النسخ الاخرى
-<li>اضافة خيار لتغيير خط محادثات الواتس اب (39 خط) - يجب الضغط على زر خيارات ثم <li>اعادة تشغيل واتس اب بعد تطبيق الخط الجديد
-<li>زيادة مدة وحجم ارسال الفيديو من 30 الى 700 ميغا بايت</li>
-<li>(حصريا) تعديل الخيار رقم 6.8 يمكنك وضع قائمة الاسماء بدلا من قائمة الحالة او بدلا </li>من قائمة سجل المكالمات
-<li>إضافة خيار لتغيير نمط المحادثات المخفية (افتح المحادثات المخفية ثم زر </li>الاعدادات)
-<li>إضافة الخيار رقم 1.1.14 لإخفاء زر الارفاق من الشريط العلوي في المحادثة</li>
-<li>إضافة الخيار رقم 1.2.44 لإخفاء زر الارفاق من صندوق الكتابة في المحادثة</li>
-<li>إصلاح ميزة إظهار اشعار عندما يصبح احد ما متصل (من زار بروفايلك)</li>
-<li>إصلاح الخيار رقم 6.11 لتعطيل ظهور الإشعارات المنبثقة في اصدار نوغا (7.0)</li>
-<li>إصلاح عدم ظهور النمط عند اخفاء محادثة في بعض الاجهزة</li>
-<li>إصلاح عدم ظهور القفل عند فتح الواتساب من الويدجت</li>
-<li>إصلاحات اخرى</li>
+<li>التحديث لنسخة الماركت 2.17.427</li>
+<li>إضافة فيسات الواتساب الجديدة</li>
+<li>حصريا) يمكنك الان ايقاف الانترنت عن الواتساب ويبقى الانترنت يعمل في البرامج الاخرى</li>
+<li>إضافة الخيار رقم 5.6  لرفع فيديو في الحالة مدته 7 دقائق بدلا من 30 ثانية</li>
+<li>الان في المجموعات سوف يظهر (مشرف المجموعة) بجانب اسم المشرف</li>
+<li>إضافة الخيار رقم 2.7.7 لتغيير حجم الزر العائم <li>
+<li>إضافة الخيار رقم 2.7.8 لتغيير مكان الزر العائم(يسار او يمين الشاشة)</li>
+<li>إضافة ملصق الساعة</li>
+<li>إصلاحات واضافات اخرى</li>
 
 
-</li>New Base Updated to 2.17.146 (Playstore)</li>
-</li>Added Ability to Send All Files (Eg. Apk, etc)</li>
-</li>Unlocked Pin Chats</li>
-</li>(Exclusive) Ability to Pin More Than 3 Chats (Default is 3)</li>
-</li>Unlimited video for status - The video shows unlimited only for my copys users. But users of other versions will only have 30 seconds</li>
-</li>Added option to change conversation font</li>
-</li>Upload videos up 700 MB</li>
-</li>(Exclusive) Show Contacts Tab in Different Style (Mod 6.8)</li>
-</li>(Exclusively) Added Attach Icon in Header (in New UI, it was removed by default)</li>
-</li>Added Option to Change Pattern to Hide Chats (Go to Hide Chat List & Click on Gear icon on Top right)</li>
-</li>Added Option to Hide Attach Icon from Header (Mod 1.1.14)</li>
-</li>Added Option to Hide Attach Icon from Stock Entry Style (Mod 1.2.44)</li>
-</li>Added Color to the Document Text (will be same as Hyperlink)</li>
-</li>Fixed Show notification when someone becomes connected (who visited your profile)</li>
-</li>Fixed Show Contact Status (Mod 2.2.2)</li>
-</li>Fixed Heads-up Notifications for Nougat (Mod 6.11)</li>
-</li>Fixed Pattern Not Showing for Some Phones When Hide Chats</li>
-</li>Fixed Voice Note Time Color</li>
-</li>Fixed Button Delete Background</li>
-</li>Fixed WhatsApp Lock</li>
-</li>Other Fixes</li>
+<li>New Base Updated to 2.17.427 (Playstore)</li>
+<li>Added New Emojis</li>
+<li>Exclusive DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
+<li>(Exclusive) Ability to Pin More Than 3 Chats (Default is 3)</li>
+<li>Exclusive Ability to identify Admin Msg in Group (Besides Number)</li>
+<li>Added option to change conversation font</li>
+<li>Upload videos up 700 MB</li>
+<li>(Exclusive) Show Contacts Tab in Different Style (Mod 6.8)</li>
+<li>(Exclusively) Added Attach Icon in Header (in New UI, it was removed by default)</li>
+<li>Exclusive Option to Change Fab Size (Mod 2.7.7)</li>
+<li>Exclusive Option to Change Fab Location/Position (Mod 2.7.8)</li>
+<li>Enabled Change Number Notification</li>
+<li>Enabled Clock Sticker</li>
+<li>Enabled Group Info Settings (Will Work when Enabled from Server)</li>
+<li>Added Option to Hide DND Mode Icon (mod 2.1.10)</li>
+<li>Improved Dialer (Now you can Edit, Copy, Paste Numbers)</li>
+<li>Added German Language Support</li>
+<li>Fixed Navigation Bar Color when Select any chat/message</li>
+<li>Fixed Mod 6.2 when Send/Receive More than 1 pic.</li>
+<li>Fixed Mod 6.11 for Android Oreo.</li>
+<li>Other Fixes</li>
 
 ","url":"http://mimsandroid.blogspot.com"
 }
