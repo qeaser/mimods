@@ -1,38 +1,26 @@
-{"version_code":452100,"content":"
+{"version_code":452257,"content":"
 <p>تحديث 6.10</p>
 
-<li>التحديث لنسخة الماركت 2.17.427</li>
-<li>إضافة فيسات الواتساب الجديدة</li>
-<li>حصريا) يمكنك الان ايقاف الانترنت عن الواتساب ويبقى الانترنت يعمل في البرامج الاخرى</li>
-<li>إضافة الخيار رقم 5.6  لرفع فيديو في الحالة مدته 7 دقائق بدلا من 30 ثانية</li>
-<li>الان في المجموعات سوف يظهر (مشرف المجموعة) بجانب اسم المشرف</li>
-<li>إضافة الخيار رقم 2.7.7 لتغيير حجم الزر العائم <li>
-<li>إضافة الخيار رقم 2.7.8 لتغيير مكان الزر العائم(يسار او يمين الشاشة)</li>
-<li>إضافة ملصق الساعة</li>
-<li>إصلاحات واضافات اخرى</li>
+<li>التحديث لنسخة الماركت 2.18.122</li>
+<li>يمكن للمشرفين الان منع الاعضاء من ارسال الرسائل في المجموعات</li>
+<li>يمكنك الان تسجيل مقاطع صوتية بدون الحاجة للضغط المطول على زر تسجيل الصوت</li>
+<li>يمكن تخصيص الرد التلقائي لمحادثات معينة او استثناء محادثات معينة</li>
+<li>إضافة الخيار رقم 2.7.9 لاختيار شكل الزر العائم كالواتس الرسمي</li>
+<li>كل الشكر لكم<li>
+<li>مازن ميمسان</li>
+<li>+967733554405/li>
 
 
-<li>New Base Updated to 2.17.427 (Playstore)</li>
-<li>Added New Emojis</li>
-<li>Exclusive DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
-<li>(Exclusive) Ability to Pin More Than 3 Chats (Default is 3)</li>
-<li>Exclusive Ability to identify Admin Msg in Group (Besides Number)</li>
-<li>Added option to change conversation font</li>
-<li>Upload videos up 700 MB</li>
-<li>(Exclusive) Show Contacts Tab in Different Style (Mod 6.8)</li>
-<li>(Exclusively) Added Attach Icon in Header (in New UI, it was removed by default)</li>
-<li>Exclusive Option to Change Fab Size (Mod 2.7.7)</li>
-<li>Exclusive Option to Change Fab Location/Position (Mod 2.7.8)</li>
-<li>Enabled Change Number Notification</li>
-<li>Enabled Clock Sticker</li>
-<li>Enabled Group Info Settings (Will Work when Enabled from Server)</li>
-<li>Added Option to Hide DND Mode Icon (mod 2.1.10)</li>
-<li>Improved Dialer (Now you can Edit, Copy, Paste Numbers)</li>
-<li>Added German Language Support</li>
-<li>Fixed Navigation Bar Color when Select any chat/message</li>
-<li>Fixed Mod 6.2 when Send/Receive More than 1 pic.</li>
-<li>Fixed Mod 6.11 for Android Oreo.</li>
-<li>Other Fixes</li>
+<li>New Base Updated to 2.18.122 (Playstore)</li>
+<li>Exclusively Improved Option for Specific/Except Contacts/Groups in Auto-Reply</li>
+<li>Improved No Need to Restart When use Privacy except for Hide Last Seen</li>
+<li>Enabled Locked Voice Recordings (Press and Swipe up/No need to hold for Recording)</li>
+<li>Enabled Group Settings - Send Messages (Once Enabled only Admin can Send Messages in Group)</li>
+<li>Added Stock Fab (Mod 2.7.9)</li>
+<li>Thanks to all</li>
+<li>Mazen Mimsan</li>
+<li>+967733554405</li>
+
 
 ","url":"http://mimsandroid.blogspot.com"
 }
